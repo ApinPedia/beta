@@ -1,4 +1,4 @@
-# mani
+# Tutor Install
 
 pkg update
 
@@ -14,8 +14,8 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/ALP/new
+git clone https://github.com/ApinPedia/beta
 
-cd new
+cd beta
 
-python2 new
+python2 beta.py
